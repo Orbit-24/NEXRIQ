@@ -21,7 +21,7 @@ const users = {
   'Rabbi': { password: 'Qadsiah1', role: 'staff' },
   'Sanula': { password: 'Qadsiah2', role: 'staff' },
   'LouayBafaqier': { password: 'Qadsiah3', role: 'staff' },
-  'LukeMurphy': { password: 'Qadsiah', role: 'manager' }
+  'LukeMurphy': { password: 'Qadsiah', role: 'manager' },
   'LeeRadcliffe': { password: 'Qadsiah', role: 'manager' }
 };
 
