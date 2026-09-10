@@ -22,6 +22,7 @@ const users = {
   'Sanula': { password: 'Qadsiah2', role: 'staff' },
   'LouayBafaqier': { password: 'Qadsiah3', role: 'staff' },
   'LukeMurphy': { password: 'Qadsiah', role: 'manager' }
+  'LeeRadcliffe': { password: 'Qadsiah', role: 'manager' }
 };
 
 // In-memory sessions (loaded on startup)
